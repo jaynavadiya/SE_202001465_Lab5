@@ -57,7 +57,7 @@ The above two screenshots show two different files, having same functions/same l
 
 ![reuse](https://user-images.githubusercontent.com/67496808/227488779-f8c520bb-60b3-4ed8-92f6-21dd7fd710e4.jpeg)
 
-If we would have used the pylint static code analyzer in the first place, we would have made a new custom library storing the same lines of code and reusing the code when needed!
+If we would have used the pylint static code analyzer in the first place, we would have made a new custom library storing the same lines of code and reusing the code when needed! This could not have been identified by the IDE.
 
 <img width="1420" alt="Screenshot 2023-03-24 at 3 24 35 PM" src="https://user-images.githubusercontent.com/67496808/227488956-7ecf019b-c606-47cd-890e-dfcc838c385a.png">
 
