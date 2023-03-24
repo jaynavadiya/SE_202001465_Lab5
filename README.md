@@ -59,6 +59,10 @@ The above two screenshots show two different files, having same functions/same l
 
 If we would have used the pylint static code analyzer in the first place, we would have made a new custom library storing the same lines of code and reusing the code when needed! This could not have been identified by the IDE.
 
+<img width="1420" alt="Screenshot 2023-03-24 at 3 28 55 PM" src="https://user-images.githubusercontent.com/67496808/227490410-96b464c3-4247-4914-9ab1-7915ba6f35aa.png">
+
+As we can see in the above screenshot, we should have given an alias to the exception in [VideoStream.py](https://github.com/jaynavadiya/TF3-Video-Streaming-With-RTSP-And-RTP/blob/main/VideoStream.py) file which could have lowered the confusion to understand what the error was for.
+
 <img width="1420" alt="Screenshot 2023-03-24 at 3 24 35 PM" src="https://user-images.githubusercontent.com/67496808/227488956-7ecf019b-c606-47cd-890e-dfcc838c385a.png">
 
 As you can see in the screenshot given above, the whole repository has been rated 1.48/10 which is very low and could have been avoided if we re-used the same code and followed identation and naming conventions of python correctly.
