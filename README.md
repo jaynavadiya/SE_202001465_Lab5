@@ -1,5 +1,6 @@
 # SE_202001465_Lab5 Submission
-This is a submission repository for the Lab 5 in which we understand Static Analysis Tools for debugging and other purposes for writing cleaner code
+This is a submission repository for the Lab 5 in which we understand Static Analysis Tools for debugging and other purposes for writing cleaner code.
+The output are available in this repostiory at [Pylint Client.py Output](https://github.com/jaynavadiya/SE_202001465_Lab5/blob/main/pylint_client_py_analysis.txt) and [Pylint whole repository Output](https://github.com/jaynavadiya/SE_202001465_Lab5/blob/main/pylint_whole_repository_analysis.txt).
 
 # Jaykumar Navadiya - 202001465
 
